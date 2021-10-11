@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dc58c4de59b1fb8a75ec640d26a5d36",
+    "revision": "a1e1ec85c27996320eaad41754fdff54",
     "url": "./index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/4.1128cc4f.chunk.css"
   },
   {
-    "revision": "96d0b7079a046dac8b0e",
-    "url": "./static/css/main.d4960be0.chunk.css"
+    "revision": "eab20f006fec248b241a",
+    "url": "./static/css/main.80ce3689.chunk.css"
   },
   {
     "revision": "6f9c373f25da480a7f61",
@@ -524,7 +524,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/99.1991b45a.chunk.js"
   },
   {
-    "revision": "96d0b7079a046dac8b0e",
+    "revision": "eab20f006fec248b241a",
     "url": "./static/js/main.ab14adad.chunk.js"
   },
   {
@@ -580,10 +580,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/fa-brands-400.457cb96b.woff"
   },
   {
-    "revision": "75af8363f4a38af4de07e056ffa068f9",
-    "url": "./static/media/fa-brands-400.75af8363.svg"
-  },
-  {
     "revision": "8300bd7f30e0a313c1d772b49d96cb8e",
     "url": "./static/media/fa-brands-400.8300bd7f.ttf"
   },
@@ -606,10 +602,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f861a57c52ef711cf807a3eec92c0e17",
     "url": "./static/media/fa-brands-400.f861a57c.woff2"
-  },
-  {
-    "revision": "190b0a81aba4077923a625483784d680",
-    "url": "./static/media/fa-regular-400.190b0a81.svg"
   },
   {
     "revision": "2cd8d991e82712f1a5c5de8ee869ca74",
@@ -682,10 +674,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a547e21eceadf53602caf057be9ad9fd",
     "url": "./static/media/fa-solid-900.a547e21e.eot"
-  },
-  {
-    "revision": "f4e2aa6a10b878a8db2ca3c5c916f30a",
-    "url": "./static/media/fa-solid-900.f4e2aa6a.svg"
   },
   {
     "revision": "be1756ec7659b6dae20553f5a8041f0d",
